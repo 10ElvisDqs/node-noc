@@ -19,3 +19,7 @@ PROD=false
 
 ## Obtener Gmail Key
 [Google AppPasswords](https://myaccount.google.com/u/0/apppasswords)
+
+
+# Notes for webhook enabling
+https://31496dd3403b.ngrok-free.app/
